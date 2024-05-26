@@ -1,3 +1,3 @@
-const baseUrl = "http://ujiapi.webhozz-training.com/api/"
+const baseUrl = "https://ujiapi.webhozz-training.com/api/"
 
 export {baseUrl}
